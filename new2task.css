@@ -1,0 +1,50 @@
+  .nav-bar {
+      top: 0;
+      position: sticky;
+  }
+
+  .a {
+      text-decoration: none;
+      letter-spacing: 4px;
+      color: black;
+  }
+
+  .a:hover {
+      background-color: lightgray;
+  }
+
+  .a-home {
+      position: absolute;
+      left: 35px;
+      top: 20px;
+  }
+
+  .a-about {
+      position: absolute;
+      left: 1300px;
+      top: 20px;
+  }
+
+  .a-menu {
+      position: absolute;
+      left: 1390px;
+      top: 20px;
+  }
+
+  .a-contact {
+      position: absolute;
+      left: 1480px;
+      top: 20px;
+  }
+
+  .humburger {
+      position: absolute;
+      top: 60px;
+      height: 729px;
+      width: 1592px;
+  }
+
+  .our-menu {
+      position: absolute;
+      top: 1000px;
+  }
